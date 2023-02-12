@@ -15,7 +15,6 @@
   <img align="center" alt="Diego-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Diego-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Diego-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Diego-pic" height="160" style="border-radius:50px;" src="https://c.tenor.com/WrR1Rxwxw3sAAAAC/nezuko-running.gif">
 </div>
   
   ##
